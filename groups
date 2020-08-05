@@ -1,4 +1,5 @@
 # UUID                                                                   	Group Name
 #
+964f46f03f831574ad6c51c0d25ffb5d194889fb                                 	saml/onap-gerrit-sdnc-oom-committers
 daebbf523be390041a1a9c0e340a6d833aae5043                                 	GitHub Replication
 ldap:cn=onap-gerrit-sdnc-oom-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-sdnc-oom-committers
